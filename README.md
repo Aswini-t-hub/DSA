@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswini-t-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Aswini-t-hub/DSA/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswini-t-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Aswini-t-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswini-t-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
