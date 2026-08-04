@@ -38,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Aswini-t-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
