@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Aswini-t-hub/DSA/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Aswini-t-hub/DSA/tree/master/1518-water-bottles) |
@@ -51,13 +52,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswini-t-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
