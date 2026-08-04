@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Aswini-t-hub/DSA/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aswini-t-hub/DSA/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
