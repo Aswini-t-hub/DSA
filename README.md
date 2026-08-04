@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Aswini-t-hub/DSA/tree/master/0069-sqrtx) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Aswini-t-hub/DSA/tree/master/1518-water-bottles) |
 ## Binary Search
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Aswini-t-hub/DSA/tree/master/1518-water-bottles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Aswini-t-hub/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
