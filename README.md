@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aswini-t-hub/DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Aswini-t-hub/DSA/tree/master/0043-multiply-strings) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aswini-t-hub/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aswini-t-hub/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aswini-t-hub/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Aswini-t-hub/DSA/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Aswini-t-hub/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Aswini-t-hub/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aswini-t-hub/DSA/tree/master/0326-power-of-three) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aswini-t-hub/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Aswini-t-hub/DSA/tree/master/0054-spiral-matrix) |
 | [1518-water-bottles](https://github.com/Aswini-t-hub/DSA/tree/master/1518-water-bottles) |
 ## Dynamic Programming
