@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aswini-t-hub/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswini-t-hub/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aswini-t-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aswini-t-hub/DSA/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Aswini-t-hub/DSA/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Aswini-t-hub/DSA/tree/master/0485-max-consecutive-ones) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aswini-t-hub/DSA/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aswini-t-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
